@@ -17,6 +17,7 @@
     "website": "https://github.com/OCA/l10n-italy",
     "license": "AGPL-3",
     "depends": [
+        "account",
         "account_fiscal_year",
         "account_tax_balance",
         "date_range",
